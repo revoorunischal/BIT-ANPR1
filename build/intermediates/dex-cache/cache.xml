@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\material2\app\build\intermediates\exploded-aar\material2.libraries\opencv\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8c841e6b12f7ce748bba2e7800b8821afb879226">
+        <dex dex="D:\material2\app\build\intermediates\pre-dexed\debug\classes-1c7b5ca5e7e9d896d0f8f594ec71c43caaf72436.jar" />
+    </item>
+    <item
+        jar="D:\material2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\material2\app\build\intermediates\pre-dexed\debug\classes-34e12baafa3045e2851c2eba9329141d6b875952.jar" />
+    </item>
+    <item
+        jar="D:\material2\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\material2\app\build\intermediates\pre-dexed\debug\classes-36785468cad53b870b7576b2564b23c474d02fab.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell Pc\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\material2\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-2f540d5d4ebe16513558a4878fe9eca0382af65f.jar" />
+    </item>
+    <item
+        jar="D:\material2\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\material2\app\build\intermediates\pre-dexed\debug\classes-36785468cad53b870b7576b2564b23c474d02fab.jar" />
+    </item>
+    <item
+        jar="D:\material2\app\build\intermediates\exploded-aar\material2\tess-two\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="690224c4746b0104117de2eb364a6bb261a8446f">
+        <dex dex="D:\material2\app\build\intermediates\pre-dexed\debug\classes-f275b4f5e799273d4c84bc48b1810e0aaf929be9.jar" />
+    </item>
+    <item
+        jar="D:\material2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\material2\app\build\intermediates\pre-dexed\debug\classes-34e12baafa3045e2851c2eba9329141d6b875952.jar" />
+    </item>
+    <item
+        jar="D:\material2\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\material2\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-404e37f846320b4ee3aef0017bf2ddb7d41f58ae.jar" />
+    </item>
+    <item
+        jar="D:\material2\app\build\intermediates\exploded-aar\material2.libraries\opencv\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="8c841e6b12f7ce748bba2e7800b8821afb879226">
+        <dex dex="D:\material2\app\build\intermediates\pre-dexed\debug\classes-1c7b5ca5e7e9d896d0f8f594ec71c43caaf72436.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell Pc\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\material2\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-2f540d5d4ebe16513558a4878fe9eca0382af65f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell Pc\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.3\56498efd17752898cfcc3868c1b6211a07b12b8f\joda-time-2.3.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="56498efd17752898cfcc3868c1b6211a07b12b8f">
+        <dex dex="D:\material2\app\build\intermediates\pre-dexed\debug\joda-time-2.3-68a6bfe20fd11b5d94ab6a93b601a05dfe932669.jar" />
+    </item>
+    <item
+        jar="D:\material2\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\material2\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-404e37f846320b4ee3aef0017bf2ddb7d41f58ae.jar" />
+    </item>
+
+</items>

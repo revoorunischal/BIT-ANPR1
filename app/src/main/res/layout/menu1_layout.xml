@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@color/bgcolor">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="LOGIN SCREEN"
+        android:id="@+id/textView1"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="44dp" />
+
+    <TextView
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Username"
+        android:id="@+id/textView2"
+        android:layout_below="@+id/textView1"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="59dp" />
+
+    <TextView
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Password"
+        android:id="@+id/textView3"
+        android:layout_below="@+id/textView2"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="56dp" />
+
+    <EditText
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:id="@+id/username"
+        android:layout_above="@+id/textView3"
+        android:layout_toEndOf="@+id/textView2" />
+
+    <EditText
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:id="@+id/Password"
+        android:layout_alignBottom="@+id/textView3"
+        android:layout_alignEnd="@+id/username" />
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="LOGIN"
+        android:id="@+id/LOG_BUT"
+        android:layout_below="@+id/Password"
+        android:layout_alignEnd="@+id/Password"
+        android:layout_marginTop="73dp" 
+        />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/status"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="10sp"
+        android:layout_marginTop="59dp"
+        android:layout_below="@+id/LOG_BUT"
+        android:layout_centerHorizontal="true" />
+
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Role"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="10sp"
+        android:layout_below="@+id/textView6"
+        android:layout_alignEnd="@+id/LOG_BUT"
+        android:layout_marginTop="48dp" />
+</RelativeLayout>

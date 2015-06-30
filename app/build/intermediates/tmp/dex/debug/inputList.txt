@@ -1,0 +1,8 @@
+D:\material2\app\build\intermediates\classes\debug
+D:\material2\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-2f540d5d4ebe16513558a4878fe9eca0382af65f.jar
+D:\material2\app\build\intermediates\pre-dexed\debug\classes-f275b4f5e799273d4c84bc48b1810e0aaf929be9.jar
+D:\material2\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-404e37f846320b4ee3aef0017bf2ddb7d41f58ae.jar
+D:\material2\app\build\intermediates\pre-dexed\debug\classes-1c7b5ca5e7e9d896d0f8f594ec71c43caaf72436.jar
+D:\material2\app\build\intermediates\pre-dexed\debug\classes-34e12baafa3045e2851c2eba9329141d6b875952.jar
+D:\material2\app\build\intermediates\pre-dexed\debug\classes-36785468cad53b870b7576b2564b23c474d02fab.jar
+D:\material2\app\build\intermediates\pre-dexed\debug\joda-time-2.3-68a6bfe20fd11b5d94ab6a93b601a05dfe932669.jar

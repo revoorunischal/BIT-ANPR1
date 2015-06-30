@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:id="@+id/screen3">
+
+    <TextView
+    android:id="@+id/textview1"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="Press the button to start camera preview to find the number or enter the number manually " />
+
+    <Button android:id="@+id/button1"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="Start Preview"
+        android:layout_below="@+id/textview1"
+        android:layout_alignParentStart="false"
+        android:layout_marginTop="15dp" />
+
+    <EditText
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/vehnum1"
+
+        android:layout_alignBottom="@+id/button1"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Submit"
+        android:id="@+id/Submit1"
+        android:layout_marginEnd="52dp"
+        android:layout_alignTop="@+id/textView62"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Type of fine"
+        android:id="@+id/textView"
+        android:layout_below="@+id/button1"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="25dp" />
+    <Spinner
+        android:id="@+id/spinner1"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:background="@android:drawable/btn_dropdown"
+        android:spinnerMode="dropdown"
+        android:layout_alignTop="@+id/textView"
+        android:layout_alignParentEnd="true" />
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/imgpic1"
+        android:layout_below="@+id/Submit1"
+        android:layout_alignParentStart="true"
+        android:scaleType="fitCenter"
+        />
+
+    <TextView
+        android:id="@+id/textView72"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Role"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="10sp"
+        android:layout_alignTop="@+id/Submit1"
+        android:layout_alignParentStart="true"
+        android:layout_alignBottom="@+id/Submit1"
+        android:layout_alignEnd="@+id/button1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/status1"
+        android:id="@+id/textView62"
+        android:layout_below="@+id/spinner1"
+        android:layout_toEndOf="@+id/textView72" />
+
+
+</RelativeLayout>

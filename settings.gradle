@@ -1,0 +1,5 @@
+include ':app',':tess-two'
+include ':libraries:opencv'
+include ':jniLibs'
+include ':libraries:tess-two'
+project(':tess-two').projectDir = new File('libraries/tess-two')

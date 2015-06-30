@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bangalore Traffic Police</string>
+    <string name="title_section1">LOGIN SCREEN</string>
+    <string name="title_section2">CHECK FINES</string>
+    <string name="title_section3">FINES ENTRY</string>
+    <string name="title_section4">REGISTRARTION</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="status">Not login</string>
+    <string name="Role">Not assigned</string>
+    <string name="method">choose method</string>
+    <string name="status1">not fined</string>
+    <string name="Role1">click check fines to see the violators in ur area</string>
+    <string name="veno">0</string>
+
+</resources>
